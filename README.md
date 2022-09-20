@@ -1,3 +1,4 @@
-## Idea
+## Birthday Reminder App
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+It's a simple app just getting the data from a JSON file and reading it.
+It contains a button which on click will clear the data.
